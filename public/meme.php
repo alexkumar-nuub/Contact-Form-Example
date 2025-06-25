@@ -167,7 +167,7 @@ unset($_SESSION['success']);
 <body>
     <div class="meme-container">
         <div class="meme-header">
-            <h1>Thanks for Contacting Us!</h1>
+            <h1>Thanks for Contacting Us Version 2!</h1>
             <p class="lead"><?= htmlspecialchars($success) ?></p>
         </div>
         
