@@ -46,7 +46,7 @@ A professional contact form implementation with server-side validation, session 
   <img src="public/assets/screenshots/meme-screenshot.png" alt="Meme Reward" width="80%">
   
   <h3>Mobile Responsive Design</h3>
-  <img src="public/assets/screenshots/mobile-screenshot.png" alt="Mobile View" width="30%">
+  <img src="public/assets/screenshots/mobile-screenshot.png" alt="Mobile View" width="80%">
 </div>
 
 ## Technology Stack
